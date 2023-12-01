@@ -1,0 +1,41 @@
+.logoHeader{
+    position:relative;
+    top: -8px;
+    width: 100px;
+}
+
+ul.listaNav li{
+    display: inline;
+    list-style: none ;
+}
+
+.concepto {
+    
+    background-image: url("https://www.papelpintado.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w04848-small.jpg.png");
+  }
+  .concepto p{
+    position: relative;
+  top: 50%;
+  left: 50%;
+  bottom: -48px;
+  transform: translate(-50%, -50%);
+    width: 300px;
+  }
+  .concepto h1{
+    position: relative;
+  top: 50%;
+  left: 58%;
+  bottom: -35px;
+  transform: translate(-50%, -50%);
+    width: 300px;
+  }
+
+  .Galeria{
+    background-image: url(" https://eltallerdecarola.com/nueva/wp-content/uploads/083icojun112_1001_papel_pintado_vegetal_selva_hojas_palmera_verde.jpg");
+  }
+
+  ul.imgGaleria li{
+    list-style: none ;
+    display: inline-block;
+
+  }
